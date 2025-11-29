@@ -1,4 +1,4 @@
-# 🏦 Java Banking System Project  
+# 🏦 Java Banking Automation CASE-Study I 
 *A complete console-based banking simulation using OOP concepts, inheritance, polymorphism, abstract classes, and arrays.*
 
 ---
@@ -111,9 +111,6 @@ Handles:
 - Array resizing  
 
 ### **8️⃣ Main (BankApplication)**  
-Simple console menu using if–else.
+Simple console menu 
 
 ---
-
-## 📌 **Main Menu Options**
-
